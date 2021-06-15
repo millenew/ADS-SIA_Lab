@@ -9,6 +9,6 @@ class MyFirstController extends Controller
 {
 	public function index()
 	{
-    //
+    	return view("resultpage");
 	}
 }
